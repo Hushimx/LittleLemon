@@ -1,0 +1,14 @@
+nav {
+  background-color: #fefefe;
+  min-height: 76px;
+  z-index: 1;
+  position: relative;
+}
+.holder {
+  position: relative;
+}
+.navItmes {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}

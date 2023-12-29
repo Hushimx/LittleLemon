@@ -1,0 +1,12 @@
+i {
+  color: white;
+  font-size: 22px;
+}
+a {
+  all: unset !important;
+}
+.brands {
+  color: white;
+  font-size: 30px;
+  margin-right: 1rem;
+}
